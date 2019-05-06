@@ -37,7 +37,7 @@ The client has requested a way to manage/visualize their donor information. They
 - Sort any column ascending/descending
 - Upload any new donor CSV to add new records
 
-Additionally, they want to be alerted on every successfuly CSV upload with a summary that includes the following information:
+Additionally, the client wants to be alerted on every successfuly CSV upload with a summary that includes the following information:
 
 - Total number of records uploaded
 - Total value of donations
