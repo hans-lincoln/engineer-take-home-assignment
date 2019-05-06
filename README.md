@@ -31,7 +31,7 @@ The client has requested a way to manage/visualize their donor information. They
 - Filter for **Anonymous** donors
 - Filter by **Donor Gender**
 - Sort any column ascending/descending
-- Upload any new donor CSV and have new records added
+- Upload any new donor CSV to add new records
 
 Additionally, they want to be alerted on every successfuly CSV upload with a summary that includes the following information:
 
