@@ -43,9 +43,10 @@ Additionally, they want to be alerted on every successfuly CSV upload with a sum
 
 - Build client dashboard with the above requirements
 - You may use any language/framework/tool to build the dashboard. Add any relevant files/code to the cloned repository.
-- Somewhere in the repo, add the public URL to view the dashboard.
+- Somewhere in the repo, add a public URL to view the dashboard.
 - Create an alert on successful CSV upload. You may send alert to any service (email, Slack, etc), but please be prepared to demo this functionality.
 
 ### Tips
 
 - We have provided a `donors.csv` file in the repo to use for seed data.
+- We are grading more for functionality than polish. We do not want you to spend significant time on aethetics; though clean, elegant UI/UX is encouraged.
