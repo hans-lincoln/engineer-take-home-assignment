@@ -26,7 +26,7 @@ The CSV file is guaranteed to be well-formed. It consists of these fields:
 - Donor Address
 - Donation Amount*
 
-Fields marked with an asterisk (**\***) are required fields, and are guaranteed to be included in each row. Blank column data should be treated as **Anonymous**.
+Fields marked with an asterisk (**\***) are required fields, and are guaranteed to be included in each row. Rows with blank column data should be treated as **Anonymous** donors.
 
 The client has requested a way to manage/visualize their donor information. They want to build a simple web dashboard to:
 
