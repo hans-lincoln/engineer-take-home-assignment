@@ -1,6 +1,6 @@
 # Lincoln Full-Stack Engineer Take-Home Project
 
-This take-home project is designed to simulate real world client work. It should take 2-4 hours to complete. Please work at your own pace and comfort.
+This take-home project is designed to simulate real world client work. It should take a couple hours to complete. Please work at your own pace and comfort.
 
 Any ambiguity found in the task is intentional; we want to see how you navigate decision trees and how you defend your choices.
 
@@ -31,10 +31,7 @@ Fields marked with an asterisk (**\***) are required fields, and are guaranteed 
 The client has requested a way to manage/visualize their donor information. They want to build a simple web dashboard to:
 
 - View all donor records
-- Search records by **Donor Name**
-- Filter for **Anonymous** donors
-- Filter by **Donor Gender**
-- Sort any column ascending/descending
+- Filter out **Anonymous** donors
 - Upload any new donor CSV to add new records
 
 Additionally, the client wants to be alerted on every successfuly CSV upload with a summary that includes the following information:
