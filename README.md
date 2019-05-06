@@ -1,5 +1,9 @@
 # Lincoln Full-Stack Engineer Take-Home Project
 
+This take-home project is designed to simulate real world client work. It should take 2-4 hours to complete. Please work at your own pace and comfort.
+
+Any ambiguity found in the task is intentional; we want to see how you navigate decision trees and how you defend your choices.
+
 ## Instructions
 
 1. Clone this repo under your own GitHub account.
@@ -11,7 +15,7 @@
 
 ### Background
 
-Your client is a non-profit organization that uses, among many other channels, the services of a 3rd party vendor to solicit donations from their constituents. Every month, the vendor sends the client a CSV file of new donor information.
+Your client is a non-profit organization that uses the services of a 3rd party vendor to solicit donations on the client's behalf. Every month, the vendor sends the client a CSV file of new donor information.
 
 The CSV file is guaranteed to be well-formed. It consists of these fields:
 
@@ -24,7 +28,7 @@ The CSV file is guaranteed to be well-formed. It consists of these fields:
 
 Fields marked with an asterisk (**\***) are required fields, and are guaranteed to be included in each row. Blank column data should be treated as **Anonymous**.
 
-The client has requested a way to manage/visualize their donor information. They want to build a simple dashboard to:
+The client has requested a way to manage/visualize their donor information. They want to build a simple web dashboard to:
 
 - View all donor records
 - Search records by **Donor Name**
@@ -41,10 +45,10 @@ Additionally, they want to be alerted on every successfuly CSV upload with a sum
 
 ### Deliverables
 
-- Build client dashboard with the above requirements
+- Build a web-based dashboard with the above client requirements
 - You may use any language/framework/tool to build the dashboard. Add any relevant files/code to the cloned repository.
 - Somewhere in the repo, add a public URL to view the dashboard.
-- Create an alert on successful CSV upload. You may send alert to any service (email, Slack, etc), but please be prepared to demo this functionality.
+- Create an alert on successful CSV upload. You may send alert to any service (email, Slack, etc). Be prepared to demo this functionality.
 
 ### Tips
 
