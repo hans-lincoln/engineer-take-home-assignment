@@ -52,5 +52,5 @@ Additionally, the client wants to be alerted on every successfuly CSV upload wit
 
 ### Tips
 
-- We have provided a `donors.csv` file in the repo to use for seed data.
+- We have provided a sample `donors.csv` file in the repo to use for seed data.
 - We are grading more for functionality than polish. We do not want you to spend significant time on aethetics; though clean, elegant UI/UX is encouraged.
