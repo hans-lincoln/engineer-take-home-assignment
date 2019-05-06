@@ -1,4 +1,4 @@
-# Lincoln full-stack engineer take-home project
+# Lincoln Full-Stack Engineer Take-Home Project
 
 ## Instructions
 
@@ -9,7 +9,7 @@
 
 ## Task 
 
-###Background
+### Background
 
 Your client is a non-profit organization that uses, among many other channels, the services of a 3rd party vendor to solicit donations from their constituents. Every month, the vendor sends the client a CSV file of new donor information.
 
