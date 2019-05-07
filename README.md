@@ -9,7 +9,6 @@ Any ambiguity found in the task is intentional; we want to see how you navigate 
 1. Clone this repo under your own GitHub account.
 2. Complete the task below.
 3. After completing the task, add **hans-lincoln** as a collaborator to your cloned repo.
-4. Schedule a post-project call at https://calendly.com/hans-lincoln/engineer-technical-interview
 
 ## Task 
 
