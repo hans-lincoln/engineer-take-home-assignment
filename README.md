@@ -14,7 +14,7 @@ Any ambiguity found in the task is intentional; we want to see how you navigate 
 
 ### Background
 
-Your client is a non-profit organization that uses the services of a 3rd party vendor to solicit donations on the client's behalf. Every month, the vendor sends the client a CSV file of new donor information.
+Your client is a non-profit organization that uses the services of a 3rd party vendor to solicit donations on the client's behalf. Every month, the vendor sends the client a CSV file of new donation information.
 
 The CSV file is guaranteed to be well-formed. It consists of these fields:
 
@@ -25,19 +25,20 @@ The CSV file is guaranteed to be well-formed. It consists of these fields:
 - Donor Address
 - Donation Amount*
 
-Fields marked with an asterisk (**\***) are required fields, and are guaranteed to be included in each row. Rows with blank column data should be treated as **Anonymous** donors.
+Fields marked with an asterisk (**\***) are required fields, and are guaranteed to be included in each row. Rows with blank column data should be treated as **Anonymous** donations.
 
-The client has requested a way to manage/visualize their donor information. They want to build a simple web dashboard to:
+The client has requested a way to manage/visualize their donation information. They want to build a simple web dashboard to:
 
-- View all donor records
-- Filter out **Anonymous** donors
-- Upload any new donor CSV to add new records
+- View all donation records
+- Filter out **Anonymous** donations
+- View total donation amount
+- Upload any new donation CSV to add new records
 
 Additionally, the client wants to be alerted on every successfuly CSV upload with a summary that includes the following information:
 
 - Total number of records uploaded
-- Total value of donations
-- Percentage of **Anonymous** donors
+- Total value of newly uploaded donations
+- Percentage of **Anonymous** donations
 
 ### Deliverables
 
@@ -48,5 +49,5 @@ Additionally, the client wants to be alerted on every successfuly CSV upload wit
 
 ### Tips
 
-- We have provided a sample `donors.csv` file in the repo to use for seed data.
+- We have provided a sample `donations.csv` file in the repo to use for seed data.
 - We are grading more for functionality than polish. We do not want you to spend significant time on aethetics; though clean, elegant UI/UX is encouraged.
