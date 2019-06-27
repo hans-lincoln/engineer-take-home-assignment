@@ -50,4 +50,4 @@ Additionally, the client wants to be alerted on every successfuly CSV upload wit
 ### Tips
 
 - We have provided a sample `donations.csv` file in the repo to use for seed data.
-- We are grading more for functionality than polish. We do not want you to spend significant time on aethetics; though clean, elegant UI/UX is encouraged.
+- We are grading more for functionality than polish. We do not want you to spend significant time on aethetics, though clean, elegant UI/UX is encouraged.
